@@ -1,5 +1,3 @@
-# Job Application Microservices
-
 A Spring Boot–based **Job Application system** built using **microservices architecture**.  
 The application manages **Jobs, Companies, and Reviews**, all of which are **interlinked** and communicate using **Eureka Service Discovery** and **Feign Clients**.
 
