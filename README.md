@@ -12,7 +12,8 @@ The application manages **Jobs, Companies, and Reviews**, all of which are **int
 - Spring Cloud Netflix Eureka  
 - OpenFeign  
 - REST APIs  
-- Maven  
+- Maven
+- Resillience4j
 
 ---
 
